@@ -1,0 +1,53 @@
+p:first-letter,
+span:first-letter
+{
+	color: red;
+    font-size: 300%;
+}
+
+.em
+{
+background-color: green;
+color: aliceblue;
+}
+.h1
+{
+    text-align: center;
+    color: orange;
+}
+.tr
+{
+   background-color: green; 
+    color: aliceblue;
+}
+.tr1
+{
+    color: orange;
+
+}
+.tr2
+{
+    color: blue;
+
+}
+.thead
+{
+    font-weight: bold;
+    text-align: center;
+ 
+}
+.vegetables-list
+{
+    color: red;
+
+}
+.fruits-list
+{
+   color: grey;
+   
+}
+.fruits-list2
+{
+   color: green;
+   
+}
